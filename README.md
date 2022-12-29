@@ -1,6 +1,6 @@
 # Microprocessors-Mikroislemciler-_Alistirmalar
 
-# Sıralama Algoritması --> Alistirma01:
+# Sıralama Algoritması --> Alistirma01.asm:
 
 Bellekte kendi belirlediğimiz bir alana 10 tane birer byte’lık rastgele işaretsiz sayı yerleştirip bunları küçükten büyüye sıralayıp yine aynı bellek bölgesinde saklayan programı Assembly dilinde yazımı.  
 
@@ -9,7 +9,7 @@ Bellekte kendi belirlediğimiz bir alana 10 tane birer byte’lık rastgele işa
    ![image](https://user-images.githubusercontent.com/75726215/210000929-330a6534-f662-492d-b8e3-d4e6ae686966.png)
 
 
-# İkili Tabanda Çok Baytlı Çarpma --> Alistirma02:
+# İkili Tabanda Çok Baytlı Çarpma --> Alistirma02.asm:
 
 32 bitlik iki sayıyı (MUL emiri kullanmadan)  çarpan programın yazımı. (8086 Assembly Kod).
 
